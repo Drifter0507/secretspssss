@@ -1,2 +1,1 @@
-legendnotgay = true
-game.Players.LocalPlayer:Kick("Unexpected Movement Behavior WARNING DO NOT EXPLOIT")
+legendnotgay = false
